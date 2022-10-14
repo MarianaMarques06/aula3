@@ -1,3 +1,2 @@
-# Git-class
-Files to be cloned for the class about git
-huherhehgfihsghsh
+git guud
+isso e um facto
